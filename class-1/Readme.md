@@ -279,7 +279,7 @@ http://127.0.0.1:8000/clear-history
 * **Reuse JSON Payloads**: Save example bodies for POST, PUT, PATCH requests.
 
 ---
-
+for more practice you can refer to this doc for realtime weather data :https://docs.google.com/document/d/1ZKqv8zjNYfCxMZippAyfFZviipCekdI6aX59Fc0MwFQ/edit?usp=sharing
 This workflow allows **anyone to test all Calculator API endpoints** manually without writing a client application.
 
 ---
